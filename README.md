@@ -1,0 +1,1 @@
+This project focuses on predicting real estate values using machine learning techniques. The dataset used is the Boston Housing Dataset, which contains various features affecting housing prices. The model is trained and tested using different machine learning algorithms to determine the most accurate prediction.
